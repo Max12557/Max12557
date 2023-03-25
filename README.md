@@ -1,6 +1,6 @@
 👋 Hi, I’m @Max12557
-I’m interested in WEB Development
-I’m currently learning JS, React
+I’m interested in C#, Unity, asp.net
+I’m currently learning winform, wpf, mysql, postgre, OOP, client-server, ado.net
 
 
 <!---
