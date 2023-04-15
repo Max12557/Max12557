@@ -1,6 +1,5 @@
 👋 Hi, I’m @Max12557
-I’m interested in C#, Unity, asp.net
-I’m currently learning winform, wpf, mysql, postgre, OOP, client-server, ado.net
+I’m interested in JS, fullstack web develepment, C#, Unity, asp.net
 
 
 <!---
