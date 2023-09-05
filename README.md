@@ -1,5 +1,5 @@
 👋 Hi, I’m @Max12557
-I’m interested in JS, fullstack web develepment, C#, Unity, asp.net
+I’m interested C# and Unity
 
 
 <!---
