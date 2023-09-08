@@ -1,5 +1,5 @@
 👋 Hi, I’m @Max12557
-I’m interested C# and Unity
+I’m interested in C# and Unity
 
 
 <!---
